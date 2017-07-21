@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DLogic uFR APDU example</string>
+	<string name="title_activity_main">DLogic uFR APDU example 1.0</string>
+
+	<string-array name="light_signal_modes">
+		<item>None</item>
+		<item>Light mode 1</item>
+		<item>Light mode 2</item>
+		<item>Light mode 3</item>
+		<item>Light mode 4</item>
+	</string-array>
+
+	<string-array name="beep_signal_modes">
+		<item>None</item>
+		<item>Beep mode 1</item>
+		<item>Beep mode 2</item>
+		<item>Beep mode 3</item>
+		<item>Beep mode 4</item>
+		<item>Beep mode 5</item>
+	</string-array>
+
+    <string-array name="capdu_picker">
+        <item>NFC NDEF tag app select</item>
+        <item>NFC CC select</item>
+        <item>NFC NDEF file select</item>
+        <item>ST M24SRxx sys file select</item>
+        <item>Read Binary</item>
+    </string-array>
+
+	<string-array name="authentication_mode_names">
+		<item>Authent1 A keys</item>
+		<item>Authent1 B keys</item>
+	</string-array>
+
+</resources>

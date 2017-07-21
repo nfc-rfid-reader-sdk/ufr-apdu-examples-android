@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <usb-accessory manufacturer="FTDI" model="Android Accessory FT312D" version="1.0" />
+    <usb-accessory manufacturer="D-Logic" model="FT312D-RS485" version="1.0" />
+    <usb-accessory manufacturer="FTDI" model="FTDIUARTDemo" version="1.0" />
+    <usb-accessory manufacturer="DLogic" model="usb_2_usb" version="1.0" />
+    <usb-accessory manufacturer="DLogic" model="usb_2_usb_dock" version="1.0" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <usb-device description="nFR USB CLASSIC" />
+    <usb-device description="nFR USB PRO" />
+    <usb-device description="uFR CLASSIC" />
+    <usb-device description="uFR ADVANCE" />
+    <usb-device description="uFR PRO" />
+    <usb-device description="uFR XR CLASSIC" />
+    <usb-device description="uFR XRC CLASSIC" />
+    <usb-device description="uFR XRC  CLASSIC" />
+</resources>
